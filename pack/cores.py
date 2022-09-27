@@ -1,0 +1,8 @@
+nocolor = '\033[m'
+amarelo = '\033[1;33m'
+vermelho = '\033[1;31m'
+azul = '\033[1;34m'
+nomes = '\033[1;36m'
+fundo = '\033[1;30;41m'
+negrito = '\033[1m'
+verde = '\033[1;32m'
