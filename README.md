@@ -1,1 +1,4 @@
-# Atividade proposta pela PUC para a criação do jogo de tabuleiro (Zombie Dice) em python
+<h1>Jogo Zombie Dice</h1>
+<h6>by: Bryan Soares</h6>
+<h5>Esse programa foi desenvolvido com o intuito de replicar o jogo de tabuleiro -=-=@ ZOMBIE DICE @ =-=- utilizando um package contendo os métodos com regras do jogo e alguns utilitarios!</h5>
+<h6>ps: Não havia necessidade da criação de um PACKAGE pelo fato de ser um jogo simples, apenas um módulo já resolveria! Acabei utilizando um package para fixar o conceito e absorver melhor o funcionamento dele na prática!</h6>
